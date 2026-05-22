@@ -1,6 +1,8 @@
 # 📊 E-Commerce Sales Dashboard | Power BI Project  
 
-![Dashboard Preview](dashboard-preview.png)
+
+<img width="1737" height="743" alt="image" src="https://github.com/user-attachments/assets/d04d2dc7-1e42-40fc-81c5-8be84dcce0b9" />
+
 
 ## 🚀 Project Overview
 This Power BI Dashboard project was created using a large-scale E-Commerce dataset provided in Microsoft Excel.  
