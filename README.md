@@ -1,7 +1,7 @@
 Excited to share my latest Power BI Dashboard Project built using an Excel dataset containing large-scale E-Commerce sales data.
 This project focuses on transforming raw data into meaningful business insights through data cleaning, analysis, and interactive visualizations.
 
-**Project Highlights**
+#**Project Highlights**
 Cleaned and processed a large dataset in Microsoft Excel
 Performed data analysis and visualization using Power BI
 Created an interactive dashboard with filters and slicers
